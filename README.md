@@ -10,4 +10,4 @@ pip install -r requirements.txt
 export API_KEY = 'ENTER YOUR API';
 python main.py
 ```
-![](../../../../var/folders/rf/1bpx_b7s0hsg5whdsvkwym040000gn/T/TemporaryItems/NSIRD_screencaptureui_ZWzhbb/Знімок екрана 2022-12-08 о 02.43.35.png)
+![](tgbot.png)
